@@ -32,4 +32,5 @@ Other than putting into practice what I recently learned about HTML/CSS syntax a
 ---
 
 Thank you for reading!
+</br>
 Enia~
